@@ -17,7 +17,7 @@ This Task Tracker App is a simple yet efficient tool built with ReactJS to help 
 
  ### Deployment
 
-The Task Tracker App is deployed and accessible online. You can access it here [Node.js](https://nodejs.org/)
+The Task Tracker App is deployed and accessible online. You can access it here [Deployed Link](https://task-tracker-beta-fawn.vercel.app/)
 
 ## Getting Started
 
